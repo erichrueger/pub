@@ -402,6 +402,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/i.imgur.com\/ztwPZOI.png"
                         }]
                 }],
          "tilewidth":32
@@ -417,6 +422,16 @@
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/www.deviantart.com\/painhurt"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -427,6 +442,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"rpg_maker_vx_rtp_tileset_by_telles0808_d2mslkf",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/www.deviantart.com\/telles0808"
+                }],
          "spacing":0,
          "tilecount":2016,
          "tileheight":32,
@@ -440,6 +461,12 @@
          "imagewidth":912,
          "margin":0,
          "name":"bar",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"pngegg.com@gmail.com"
+                }],
          "spacing":0,
          "tilecount":784,
          "tileheight":32,
@@ -464,6 +491,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/github.com\/thecodingmachine\/workadventure-map-starter-kit"
                         }]
                 }],
          "tilewidth":32
@@ -479,6 +511,16 @@
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"https:\/\/github.com\/thecodingmachine\/workadventure-map-starter-kit"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -489,6 +531,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/www.deviantart.com\/milkian"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
